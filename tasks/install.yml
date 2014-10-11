@@ -1,0 +1,10 @@
+---
+- name: Install Packages | apt
+  apt:
+    state: latest
+    pkg: "{{ item }}"
+  with_items:
+    - mosh
+  tags:
+    - software-installation
+    - using-apt

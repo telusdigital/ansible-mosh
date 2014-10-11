@@ -1,0 +1,5 @@
+---
+dependencies:
+  - role: meta/repository
+    repository_url: 'deb http://ppa.launchpad.net/keithw/mosh/ubuntu trusty main'
+    repository_key: '0x3eb9326a7bf6dfcd'
