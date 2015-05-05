@@ -15,4 +15,5 @@ galaxy_info:
       - trusty
       - utopic
   categories:
+    - networking
     - system
