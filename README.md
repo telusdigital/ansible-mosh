@@ -2,6 +2,8 @@
 
 [mosh](https://mosh.mit.edu/) (mobile shell)
 
+[![Build Status](https://travis-ci.org/telusdigital/ansible-mosh.svg?branch=master)](https://travis-ci.org/telusdigital/ansible-mosh)
+
 [![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
 
 Description
